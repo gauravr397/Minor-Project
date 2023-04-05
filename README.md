@@ -3,17 +3,9 @@
 - [Current status of Project](#current-status-of-the-project-)
 - [**Application Features**](#-application-features-)
   - [Currently implemented](#currently-implemented-)
-  - [Planned in next versions](#kept-for-next-version-)
+
 - [**How the application works?**](#understanding-application-flow)
   - [Terminology used](#understanding-the-terminology-used-)
-  - [How the application works?](#understanding-the-flow-of-application-with-screenshots-)
-    flow of ...
-    1. Wallet connection
-    2. Campaign Creation & Display
-    3. Contributing funds
-    4. Ending Campaign
-    5. Aborting Campaign
-    6. Viewing campaign's transaction on etherscan.io
 - [**Ingredients of recipe**](#ingredients-of-recipe) _(here, recipe refers to application)_
   - [Key ingredients](#packages-used-)
   - [Tools to prepare](#tools-used-%EF%B8%8F)
