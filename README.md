@@ -38,7 +38,7 @@
 |       **Abort campaign** | Fund raiser          | Fund raiser can abort campaign (before deadline) - with whatsoever may be the reason. In this case, all the raised funds (if any) will be payed back to backers.                                                                  |
 | **Ending & withdrawing** | Fund raiser          | Fund raiser can end the campaign [ONLY] after the deadline & campaign has reached its goal. Else they need to abort to pay back to backers.                                                                                       |
 
-## Kept for next version 💼
+<!-- ## Kept for next version 💼
 
 |                          **Feature** |    **User**     | **Purpose**                                                                                                                                                                                                                                                              |
 | -----------------------------------: | :-------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -50,7 +50,7 @@
 |                      **Funds usage** | Backer / public | A page which shows the flow of funds (_Inflow:_ from backers, _Outflow:_ by fundraiser with a reason) with all the transaction IDs which can be checked publicly via [etherscan.io](https://etherscan.io)<br/>**Why?** to provide transparency.                          |
 | **Searching campaigns with filters** |     Public      | (Mainly) to facilitate backers & public, to search for campaigns & know the status of it, usage of funds ... etc.,                                                                                                                                                       |
 |        **Backers withdrawing funds** |     Backer      | This is still in question.                                                                                                                                                                                                                                               |
-
+-->
 # Understanding application flow
 
 ## Understanding the terminology used ..
@@ -74,7 +74,7 @@
 
 Now, good to go.
 Ready with understanding and basic setup.
-
+<!--
 ## Understanding the flow of application (with screenshots) 📸
 
 **Home page**
@@ -151,7 +151,7 @@ Ready with understanding and basic setup.
 - This provides transparency and trust that,
   - When backer has funded, with what amount..
   - When did the campaign has ended, aborted...
-
+-->
 # Ingredients of recipe
 
 ## Packages used 📦
